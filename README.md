@@ -3,4 +3,4 @@ This Repository conveys the first assignment of React class 2026. Repository cre
 
 In this assignment I have initialized a react project using vite with Javascript type. The main goal of this assignment was to build a reusable component called badget. 
 
-Componnet created successfully.
+Component created successfully.
